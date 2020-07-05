@@ -15,7 +15,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/golang/mock v1.3.1
 	github.com/google/uuid v1.1.1
-	github.com/linode/linodego v0.19.0
+	github.com/linode/linodego v0.18.0
 	github.com/morikuni/aec v1.0.0
 	github.com/packethost/packngo v0.2.0
 	github.com/pkg/errors v0.8.1
